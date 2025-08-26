@@ -62,7 +62,7 @@ export default function Index() {
                 </Button>
                 <Button size="lg" variant="outline" className="border-secondary text-secondary hover:bg-secondary hover:text-white">
                   <Icon name="Phone" className="h-5 w-5 mr-2" />
-                  +7 (999) 123-45-67
+                  +7 (980) 363-13-70
                 </Button>
               </div>
             </div>
@@ -312,7 +312,7 @@ export default function Index() {
                   </div>
                   <div>
                     <label className="block text-sm font-medium text-secondary mb-2">Телефон</label>
-                    <Input placeholder="+7 (999) 123-45-67" />
+                    <Input placeholder="+7 (980) 363-13-70" />
                   </div>
                 </div>
                 <div>
@@ -350,8 +350,8 @@ export default function Index() {
                 <Icon name="Phone" className="h-8 w-8 text-primary" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Телефон</h3>
-              <p className="opacity-90">+7 (999) 123-45-67</p>
-              <p className="opacity-90">+7 (999) 123-45-68</p>
+              <p className="opacity-90">+7 (980) 363-13-70</p>
+              <p className="opacity-90">+7 (980) 363-13-70</p>
             </div>
             
             <div className="text-center">
@@ -429,7 +429,7 @@ export default function Index() {
             <div>
               <h3 className="font-semibold mb-4">Контакты</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>+7 (999) 123-45-67</li>
+                <li>+7 (980) 363-13-70</li>
                 <li>info@mebelmaster.ru</li>
                 <li>г. Москва, ул. Мебельная, 123</li>
               </ul>
