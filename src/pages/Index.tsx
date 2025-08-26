@@ -13,7 +13,7 @@ export default function Index() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Icon name="Home" className="h-8 w-8 text-primary mr-2" />
-              <span className="text-2xl font-bold text-secondary">МебельМастер</span>
+              <span className="text-2xl font-bold text-secondary">Студия57</span>
             </div>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-8">
